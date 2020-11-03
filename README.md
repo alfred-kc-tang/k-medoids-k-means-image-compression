@@ -37,4 +37,4 @@ This project adopts the recommended practice of [PEP 8](https://www.python.org/d
 
 ## License
 
-This repository is covered under the [MIT License](https://github.com/alfred-kctang/iris-plants/blob/master/LICENSE).
+This repository is covered under the [MIT License](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/LICENSE).
