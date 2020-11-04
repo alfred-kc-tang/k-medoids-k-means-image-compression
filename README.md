@@ -33,9 +33,25 @@ The effects of varying values of K on the compressed image are shown by the foll
   <img src="https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture.bmp?raw=true" alt="CUHK"/>
 </p>
 
-K-medoids: $K = 32$        |K-means: $K = 32$
+K-medoids: K = 32          |K-means: K = 32
 :-------------------------:|:-------------------------:
-![](https://https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/32my_picture_32K_medoids.bmp?raw=true" alt="CUHK")  |  ![](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.bmp?raw=true" alt="CUHK")
+![CUHK](https://https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/32my_picture_32K_medoids.bmp?raw=true" alt="CUHK")  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.bmp?raw=true" alt="CUHK")
+
+K-medoids: K = 512         |K-means: K = 512
+:-------------------------:|:-------------------------:
+![CUHK](https://https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/32my_picture_32K_medoids.bmp?raw=true" alt="CUHK")  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.bmp?raw=true" alt="CUHK")
+
+K-medoids: K = 1024        |K-means: K = 1024
+:-------------------------:|:-------------------------:
+![CUHK](https://https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/32my_picture_32K_medoids.bmp?raw=true" alt="CUHK")  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.bmp?raw=true" alt="CUHK")
+
+K-medoids: K = 2048        |K-means: K = 2048
+:-------------------------:|:-------------------------:
+![CUHK](https://https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/32my_picture_32K_medoids.bmp?raw=true" alt="CUHK")  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.bmp?raw=true" alt="CUHK")
+
+K-medoids: K = 4096        |K-means: K = 4096
+:-------------------------:|:-------------------------:
+![CUHK](https://https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/32my_picture_32K_medoids.bmp?raw=true" alt="CUHK")  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.bmp?raw=true" alt="CUHK")
 
 ## Keywords
 
