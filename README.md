@@ -29,10 +29,6 @@ In comparison with the K-medoids, K-means algorithm has a shorter running time t
 
 The effects of varying values of K on the compressed image are shown by the following images:
 
-<p align="center">
-  <img src="https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture.bmp?raw=true" alt="CUHK"/>
-</p>
-
 K-medoids: K = 32          |Original                   |K-means: K = 32
 :-------------------------:|:-------------------------:|:-------------------------:
 ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_medoids.bmp?raw=true)  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture.bmp?raw=true)  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.bmp?raw=true)
@@ -49,8 +45,8 @@ K-medoids: K = 2048        |Original                   |K-means: K = 2048
 :-------------------------:|:-------------------------:|:-------------------------:
 ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_2048K_medoids.bmp?raw=true)  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture.bmp?raw=true)  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_2048K_means.bmp?raw=true)
 
-K-medoids: K = 4096        |K-means: K = 4096
-:-------------------------:|:-------------------------:
+K-medoids: K = 4096        |Original                   |K-means: K = 4096
+:-------------------------:|:-------------------------:|:-------------------------:
 ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_4096K_medoids.bmp?raw=true)  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture.bmp?raw=true)  |  ![CUHK](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_4096K_means.bmp?raw=true)
 
 ## Keywords
