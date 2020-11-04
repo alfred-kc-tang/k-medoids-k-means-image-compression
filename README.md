@@ -11,7 +11,7 @@
 
 ## Goal
 
-This project aims at utilizing the k-medoids and k-means clustering algorithms to compress images, so that the size of the images can be reduced without reducing their quality significantly. By doing so, comparison between the two algorithms will also be done.
+This project aims at utilizing the k-medoids and k-means clustering algorithms to compress images, so that the size of the images can be reduced without reducing their quality significantly. The two algorithms are written using only NumPy and SciPy without importing a machine learning library, such as scikit-learn. Comparison on the quality of the compressed images between the two algorithms will then be drawn.
 
 ## Methodology
 
