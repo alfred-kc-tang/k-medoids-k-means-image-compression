@@ -30,12 +30,12 @@ In comparison with the K-medoids, K-means algorithm has a shorter running time t
 The effects of varying values of K on the compressed image are shown by the following images:
 
 <p align="center">
-  <img src="https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture.png?raw=true" alt="CUHK"/>
+  <img src="https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture.bmp?raw=true" alt="CUHK"/>
 </p>
 
 K-medoids: $K = 32$        |K-means: $K = 32$
 :-------------------------:|:-------------------------:
-![](https://https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/32my_picture_32K_medoids.png?raw=true" alt="CUHK")  |  ![](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.png?raw=true" alt="CUHK")
+![](https://https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/32my_picture_32K_medoids.bmp?raw=true" alt="CUHK")  |  ![](https://github.com/alfred-kctang/k-medoids-k-means-image-compression/blob/master/my_picture_32K_means.bmp?raw=true" alt="CUHK")
 
 ## Keywords
 
